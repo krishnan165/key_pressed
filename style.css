@@ -1,0 +1,11 @@
+body
+{
+    text-align:center;
+}
+
+#my_canvas
+{
+  border-radius:5px;
+  border-style:double;
+}
+
